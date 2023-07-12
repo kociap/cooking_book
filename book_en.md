@@ -23,9 +23,11 @@ In Europe there are several prevailing systems for labeling flour types, however
 
 ## Kneading
 
-# Bread
+# Breads
 
-## Ingredients
+## Pre-Ferment Bread
+
+\subsubsection*{Ingredients}
 For a single loaf
 
 \underline{Pre-Ferment (Poolish)}
@@ -41,7 +43,7 @@ For a single loaf
 - 6g fresh yeast
 - 10g salt
 
-## Instructions
+\subsubsection*{Instructions}
 Prepare the poolish by mixing all ingredients in a glass jar or a glass container. Leave to ferment in room temperature for 16-24 hours.
 
 Once the poolish is ready, mix the ingredients for the dough and the entire poolish until homogenous. Leave to rest for around 30 minutes, then fold several times onto itself. Repeat at least one more time and leave to rest for 30 minutes.
@@ -52,22 +54,25 @@ Prepare a proofing basket or line a large bowl with a clean kitchen towel and to
 
 While the dough is proofing, heat the oven and a dutch oven (you may use a large steel pot with a lid as a replacement) to 250C. Once hot, sprinkle the bottom of the dutch oven with flour and carefully place the dough in it. Do not drop the dough as it will lose the gases built up during proofing resulting in a more flat loaf. Score the top of the bread deeply. Bake covered for 20 minutes, remove the cover and bake for 20 or more minutes to achieve dark brown crust.
 
-# Pizza Napoletana
+## Sourdough Bread
 
-## Ingredients
+# Pizza
+## Pizza Napoletana
+
+\subsubsection*{Ingredients}
 - wheat flour (11-12% protein or type 450)
 - 60%+ water (room temperature)
 - 0.5% fresh yeast
 - 2% salt
 
-## Measuring
+\subsubsection*{Measuring}
 It is important to measure the appropriate amounts of ingredients, so that we may divide the dough into an integral number of pieces (too large pieces will result in pizzas with a thick bottom, while too small pieces will result in smaller pizzas). We will be dividing the dough into $280 \pm 5$g pieces. For example, if we want to make 4 pizzas, we should make 1120g of dough. The mass of the entire dough is approximately the sum of the masses of the ingredients, hence we may calculate the amount of flour needed:
 $$
 mass_{flour} = mass_{dough} \times \frac{100\%}{ percent_{flour} + percent_{water} + percent_{salt} + percent_{yeast} }
 $$
 For a 60% hydration dough we need $\frac{1120}{1 + 0.6 + 0.02 + 0.005} = \frac{1120}{1.625} = 689.3$g flour.
 
-## Instructions
+\subsubsection*{Instructions}
 We mix the ingredients in a large bowl, then knead using any technique for about 20 minutes. For high hydration dough we may instead choose the folding technique and perform it periodically during the resting period. We leave the dough for at least 2h to rest, but due to it being a low yeast content dough, we may leave it for 5h or more.
 
 After the dough rests, we prepare containers to store it. We may use small containers for each piece of dough or large fermentation boxes (as seen in commercial pizzerias) for multiple. Cover the containers with a thin layer of oil. Divide the dough into $280 \pm 5$g pieces, shape into balls with a smooth surface (extremely important) by, for instance, folding the dough into itself and place them in the containers. If storing multiple ball in one container, leave at least 5cm of space inbetween each pair. Store in the fridge and let ferment for at least 8h. It is possible to store the dough in the fridge for up to a week.
