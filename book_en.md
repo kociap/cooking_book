@@ -102,3 +102,37 @@ Take a steel pot and heat it over high heat for about 30 seconds. To the hot pot
 Blend half the oatmeal coarsely, transfer to a container, then blend the dried fruits until they turn into tiny pieces. We do not want to turn them into a paste, though. Take a large bowl and mix eggs and butter together until combined, then add flour and whisk until the mass turns smooth. Add your remaining ingredients and mix until the mass is uniform. If the mass is crumbly, add some water.
 
 Line a baking tray with parchment paper. Scoop a small portion of the dough, form into a rough ball, then lay on the tray and press down until about 1cm thick. Repeat to make 9 cookies. Bake for 15 mins.
+
+# Desserts
+## Panna Cotta
+Panna Cotta may be served and garnished in a variety of ways, e.g. layered in a glass or inverted onto a plate with a side of fruits. In this recipe we will be making a 3-layer Panna Cotta in whiskey glasses, however, the recipe for the cream itself may be used to make any variety of Panna Cotta.
+\subsubsection*{Ingredients}
+For 3 servings:
+
+\underline{Cream}
+
+- 500ml cream 36% or 30%
+- 25g sugar
+- 7g gelatin (powder, for other kinds use the appropriate method to dissolve)
+- vanilla bean (optional)
+
+\underline{Chocolate}
+
+- 30g dark chocolate 64%+
+- 20g butter
+- confectioner sugar (optional)
+
+\underline{Fruit Sauce}
+
+- 100g strawberries, peaches or any other fresh fruits
+- sugar (optional)
+
+\underline{Garnish}
+
+- 1 large strawberry, 1 slice of peach or a part of the fruit used to make the sauce
+- 2 mint leaves
+
+\subsubsection*{Instructions}
+In a small bowl mix 3 spoons of cream with the gelatin. To a large pot, add the sugar and the rest of the cream and set over small heat. Use a thermometer to measure the temperature and stir constantly. Pour in the cream mixed with the gelatin and mix until thoroughly incorporated. If using vanilla or other spices, add them now. Once the temperature reaches slightly below 80C, cut the heat and distribute evenly into 400ml whiskey glasses. Cover tightly with plastic foil and place in the fridge for at least 4h.
+
+Once the cream sets and you are ready to serve the dessert, prepare the chocolate and the fuit sauce. Melt the chocolate and the butter in a water bath. Blend the fruits. You may optionally cook the fruits before blending. Prepare the garnish. Remove the cover from a glass and wipe any moisture from the inside. Layer chocolate thinly as it has quite an intense flavour. Pour the sauce gently on top and garnish with fruit and mint.
