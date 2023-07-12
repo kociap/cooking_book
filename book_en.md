@@ -78,3 +78,27 @@ We mix the ingredients in a large bowl, then knead using any technique for about
 After the dough rests, we prepare containers to store it. We may use small containers for each piece of dough or large fermentation boxes (as seen in commercial pizzerias) for multiple. Cover the containers with a thin layer of oil. Divide the dough into $280 \pm 5$g pieces, shape into balls with a smooth surface (extremely important) by, for instance, folding the dough into itself and place them in the containers. If storing multiple ball in one container, leave at least 5cm of space inbetween each pair. Store in the fridge and let ferment for at least 8h. It is possible to store the dough in the fridge for up to a week.
 
 After taking out of the fridge, let rest for around 30 minutes or until it reaches around 16C. In the meantime preheat the oven to the highest available temperature. Carefully take one dough ball out of a container (it is important to not push the gases out of the dough at this stage) onto flour and stretch using any technique while being cautious to not press the gases out of the crust. Bake until the crust turns crispy (for reference, 6-8 minutes in 250C).
+
+# Cookies
+## Oatmeal Cookies
+\subsubsection*{Ingredients}
+For about 18 cookies:
+
+- 250g oatmeal
+- 200g flour (type 450-650)
+- 150g butter
+- 2 eggs
+- 5g salt
+- 5g cinnamon
+- 30g brown sugar/honey or use caramel
+- dried fruits (for example cranberry)
+- water (optional)
+
+\subsubsection*{Instructions}
+Preheat your oven to about 165C.
+
+Take a steel pot and heat it over high heat for about 30 seconds. To the hot pot add butter and brown until golden brown. Cool the butter in a water bath until it is around room temperature.
+
+Blend half the oatmeal coarsely, transfer to a container, then blend the dried fruits until they turn into tiny pieces. We do not want to turn them into a paste, though. Take a large bowl and mix eggs and butter together until combined, then add flour and whisk until the mass turns smooth. Add your remaining ingredients and mix until the mass is uniform. If the mass is crumbly, add some water.
+
+Line a baking tray with parchment paper. Scoop a small portion of the dough, form into a rough ball, then lay on the tray and press down until about 1cm thick. Repeat to make 9 cookies. Bake for 15 mins.
