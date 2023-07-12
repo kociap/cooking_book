@@ -46,13 +46,13 @@ For a single loaf
 \subsubsection*{Instructions}
 Prepare the poolish by mixing all ingredients in a glass jar or a glass container. Leave to ferment in room temperature for 16-24 hours.
 
-Once the poolish is ready, mix the ingredients for the dough and the entire poolish until homogenous. Leave to rest for around 30 minutes, then fold several times onto itself. Repeat at least one more time and leave to rest for 30 minutes.
+Once the poolish is ready, mix it with the ingredients for the dough in a large bowl until homogenous. Leave to rest for around 30 minutes, then fold several times onto itself. Repeat at least one more time and leave to rest for 30 minutes.
 
 Take the dough out of the bowl onto a surface lightly sprinkled with flour. Fold the dough onto itself several times by grabbing an edge of the dough, stretching it up and bringing it to the opposite side. Work clockwise or counterclockwise. Flip the dough upside-down and shape into a ball to form a smooth surface by pulling the dough under itself. Keep the seam at the bottom of the ball throughout the process.
 
 Prepare a proofing basket or line a large bowl with a clean kitchen towel and toss very generously with flour (otherwise the dough will stick to the towel). Toss the top of the dough with flour and place it seam side up in the proofing basket. Proof at room temperature for 30 minutes to one hour.
 
-While the dough is proofing, heat the oven and a dutch oven (you may use a large steel pot with a lid as a replacement) to 250C. Once hot, sprinkle the bottom of the dutch oven with flour and carefully place the dough in it. Do not drop the dough as it will lose the gases built up during proofing resulting in a more flat loaf. Score the top of the bread deeply. Bake covered for 20 minutes, remove the cover and bake for 20 or more minutes to achieve dark brown crust.
+While the dough is proofing, heat the oven and a dutch oven (you may use a large steel pot with a lid as a replacement) to 250C. Once hot, sprinkle the bottom of the dutch oven with flour and carefully place the dough in it. Do not drop the dough as it will lose the gases built up during proofing resulting in a flatter loaf. Score the top of the bread deeply. Bake covered for 20 minutes, remove the cover and bake for 20 or more minutes to achieve dark brown crust.
 
 ## Sourdough Bread
 
@@ -66,7 +66,7 @@ While the dough is proofing, heat the oven and a dutch oven (you may use a large
 - 2% salt
 
 \subsubsection*{Measuring}
-It is important to measure the appropriate amounts of ingredients, so that we may divide the dough into an integral number of pieces (too large pieces will result in pizzas with a thick bottom, while too small pieces will result in smaller pizzas). We will be dividing the dough into $280 \pm 5$g pieces. For example, if we want to make 4 pizzas, we should make 1120g of dough. The mass of the entire dough is approximately the sum of the masses of the ingredients, hence we may calculate the amount of flour needed:
+It is important to measure the appropriate amounts of ingredients, so that we may divide the dough evenly without any leftover (too large pieces will result in pizzas with a thick bottom, while too small pieces will result in smaller pizzas). We will be dividing the dough into $280 \pm 5$g pieces. For example, if we want to make 4 pizzas, we should make 1120g of dough. The mass of the entire dough is approximately the sum of the masses of the ingredients, hence we may calculate the amount of flour needed:
 $$
 mass_{flour} = mass_{dough} \times \frac{100\%}{ percent_{flour} + percent_{water} + percent_{salt} + percent_{yeast} }
 $$
