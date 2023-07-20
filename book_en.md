@@ -23,6 +23,8 @@ In Europe there are several prevailing systems for labeling flour types, however
 
 ## Kneading
 
+## Melting Chocolate
+
 # Breads
 
 ## Pre-Ferment Bread
@@ -136,3 +138,24 @@ For 3 servings:
 In a small bowl mix 3 spoons of cream with the gelatin. To a large pot, add the sugar and the rest of the cream and set over small heat. Use a thermometer to measure the temperature and stir constantly. Pour in the cream mixed with the gelatin and mix until thoroughly incorporated. If using vanilla or other spices, add them now. Once the temperature reaches slightly below 80C, cut the heat and distribute evenly into 400ml whiskey glasses. Cover tightly with plastic foil and place in the fridge for at least 4h.
 
 Once the cream sets and you are ready to serve the dessert, prepare the chocolate and the fuit sauce. Melt the chocolate and the butter in a water bath. Blend the fruits. You may optionally cook the fruits before blending. Prepare the garnish. Remove the cover from a glass and wipe any moisture from the inside. Layer chocolate thinly as it has quite an intense flavour. Pour the sauce gently on top and garnish with fruit and mint.
+
+## Brownies
+There are two types of brownies - fudgy and cakey. Fudgy brownies are chewy, gooey, moist, while cakey brownies resemble a very dense genoise. It is up to your personal preference which type you will make.
+
+The proportions of fats (from butter and chocolate) and flour will vary the fudgyness of the brownies. For fudgy brownies add more fat (butter and chocolate) and for cakey brownies add more flour. The mixing technique, the baking time and the temperature also affect the texture of the brownies. For fudgy brownies, barely mix the ingredients and bake shorter, while for cakey brownies do the exact opposite - ensure the ingredients are thoroughly incorporated, preferably using a mixer, and the brownies are baked for a longer time.
+
+Additionally, using less sugar will prevent the sweetness from overwhelming the bitter taste of the chocolate and the cocoa resulting in a richer flavour variety (the following recipe already reflects that). However, the sugar, when baking, carmelises at the top forming a light crust. Adding too little sugar will result in no crust and extremely bitter brownies.
+
+The following recipe is for a 22x22cm baking pan of fudgy brownies.
+
+\subsection*{Ingredients}
+- 120g 64% chocolate
+- 115g butter
+- 140g white sugar
+- 3 eggs
+- 60g flour
+- 50g cocoa powder
+- 7g salt
+- 120g 64% chopped chocolate or chocolate chips
+
+Preheat your oven to 165C and line a 22x22cm baking pan with parchment paper. In a water bath, melt the chocolate and the butter stirring occasionally to combine. Once fully melted, take off the heat source and add sugar and salt. Barely mix. Then, add the eggs, mix roughly. Add the dry ingredients (flour, cocoa powder) and the chopped chocolate or chocolate chips, and mix until few lumps remain. It is perfect if your batter is lightly undermixed. Pour the batter into the pan and bake for 23 minutes. Let cool in the pan on a wire rack for several hours before cutting.
