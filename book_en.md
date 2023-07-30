@@ -90,20 +90,23 @@ For about 18 cookies:
 - 200g flour (type 450-650)
 - 150g butter
 - 2 eggs
-- 5g salt
-- 5g cinnamon
-- 30g brown sugar/honey or use caramel
+- 4g salt
+- 4g cinnamon
+- 15g brown sugar/honey or use caramel
 - dried fruits (for example cranberry)
+- 100g 64% chocolate or chocolate chips
 - water (optional)
 
 \subsubsection*{Instructions}
 Preheat your oven to about 165C.
 
-Take a steel pot and heat it over high heat for about 30 seconds. To the hot pot add butter and brown until golden brown. Cool the butter in a water bath until it is around room temperature.
+Take a steel pot and set it over medium heat. Add butter and brown until butter solids appear and the liquid turns golden brown. It is important to transfer the liquid butter to a bowl or another container, or cool the pot in a water bath until it is around room temperature because otherwise the butter might burn from the heat stored by the pot.
 
-Blend half the oatmeal coarsely, transfer to a container, then blend the dried fruits until they turn into tiny pieces. We do not want to turn them into a paste, though. Take a large bowl and mix eggs and butter together until combined, then add flour and whisk until the mass turns smooth. Add your remaining ingredients and mix until the mass is uniform. If the mass is crumbly, add some water.
+Blend half the oatmeal coarsely, transfer to a container, then blend the dried fruits until they turn into tiny pieces. We do not want to turn them into a paste, though. Cut the chocolate int rough 5mm squares.
 
-Line a baking tray with parchment paper. Scoop a small portion of the dough, form into a rough ball, then lay on the tray and press down until about 1cm thick. Repeat to make 9 cookies. Bake for 15 mins.
+Take a large bowl and mix eggs and sugar. Add butter and mix until combined, then add flour and whisk until the mass turns smooth. Add your remaining ingredients and mix until the mass is uniform. If the mass is crumbly, add some water.
+
+Line a baking tray with parchment paper. Scoop a small portion of the dough, form into a rough ball, then lay on the tray and press down until about 1cm thick. Repeat to make 9 cookies. Bake for 17 minutes or until the bottom of the cookies is brown.
 
 # Desserts
 ## Panna Cotta
