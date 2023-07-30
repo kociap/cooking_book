@@ -116,6 +116,7 @@ After taking out of the fridge, let rest for around 30 minutes or until it reach
 ## Spring Rolls
 
 # Main Courses
+## Chicken Broccoli
 ## Katsu Chicken
 ## Sweet-Sour Chicken
 The sweetness of the sauce comes from the pineapple juice and the pineapple chunks, while the sour taste is attributed to the rice vinegar. Balance those to your liking. Additionally, the pineapple juice, if not on hand, may be replaced by a sugar syrup.
@@ -125,6 +126,9 @@ The colour of the sauce ranges from an intense red to a dark brown depending on 
 The chicken may be battered and fried, however, this recipe is intended to be as quick and cheap as possible so that it is possible to make it when running short on time, hence this step is omitted.
 
 \subsubsection*{Ingredients}
+
+\underline{Chicken and Vegetables}
+
 - one small chicken breast
 - red bell pepper (may use more varieties for more vivid colours)
 - red onion
@@ -134,6 +138,7 @@ The chicken may be battered and fried, however, this recipe is intended to be as
 - spring onions for garnish
 
 \underline{Sauce}
+
 - 120g pineapple juice
 - 30g tomato concentrate, tomato puree, ketchup
 - 30ml soy sauce
