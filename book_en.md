@@ -27,6 +27,10 @@ In Europe there are several prevailing systems for labeling flour types, however
 
 ## Melting Chocolate
 
+## Thickening Sauces
+
+## Carryover Cooking
+
 \newpage
 
 # Pasta
@@ -114,6 +118,46 @@ After taking out of the fridge, let rest for around 30 minutes or until it reach
 # Main Courses
 ## Katsu Chicken
 ## Sweet-Sour Chicken
+The sweetness of the sauce comes from the pineapple juice and the pineapple chunks, while the sour taste is attributed to the rice vinegar. Balance those to your liking. Additionally, the pineapple juice, if not on hand, may be replaced by a sugar syrup.
+
+The colour of the sauce ranges from an intense red to a dark brown depending on the ingredients used. Industrial food colouring will yield a bright red. Tomato products, such as concentrate, puree, ketchup, will result in dark red. The addition of soy sauce will darken the colour farther into browns.
+
+The chicken may be battered and fried, however, this recipe is intended to be as quick and cheap as possible so that it is possible to make it when running short on time, hence this step is omitted.
+
+\subsubsection*{Ingredients}
+- one small chicken breast
+- red bell pepper (may use more varieties for more vivid colours)
+- red onion
+- 100-150g pineapple
+- 4 cloves of garlic
+- 2cm knob of ginger
+- spring onions for garnish
+
+\underline{Sauce}
+- 120g pineapple juice
+- 30g tomato concentrate, tomato puree, ketchup
+- 30ml soy sauce
+- 30ml rice vinegar
+- MSG (optional)
+- potato starch
+
+\subsubsection*{Instructions}
+Preheat your wok on highest heat at any point during the prep.
+
+First, prepare all ingredients as the cooking process will be rather short and fast paced. Cut the spring onions and set aside in a bowl. Cut bell pepper, onion and pineapple into large chunks (at least 1cm), set aside. Mince garlic and ginger, and set aside separated. Cut the chicken breast into large chunks (at least 2cm).
+
+In a bowl mix the pineapple juice, tomato product, soy sauce, vinegar and MSG. In another bowl mix the starch with a little bit of water to make a slurry. Remember to stir the slurry before adding it as the starch will settle at the bottom.
+
+To the hot wok add a little bit of oil and spread it around the wok to cover its surface. Add chicken and fry on one side until browned lightly, then stir so that the other side is not pink anymore and transfer to a large bowl. You should not be taking too long to fry the chicken as the carryover cooking will do its job.
+
+Next, add a little bit of oil and fry the bell pepper and onion stirring frequently. After around 1 minute, add the pineapple and fry stirring for 1 more minute. Transfer to the bowl with chicken.
+
+Once again, add a little bit of oil and fry the aromatics (garlic and ginger) for about 30 seconds. You may save about 30% of your garlic for the end to give the dish additional spice and garlicy taste. Pour in the sauce and boil for 30 seconds. Pour the slurry slowly to thicken the sauce to desired thickness remembering to stir constantly as the slurry will quickly set into gel.
+
+Once the sauce is thickened, transfer all the vegetables and the chicken to the wok, stir and toss until thoroughly coated and cut the heat. If saved some of the garlic, add it now and stir.
+
+Serve with rice and garnish with the spring onion.
+
 ## Zuǒ Zōngtáng Jī (General Tso's Chicken)
 ## Chénpí Jī (Orange Chicken)
 ## Yaki Udon
