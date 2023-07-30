@@ -9,6 +9,8 @@ fontsize: 11pt
 
 \tableofcontents
 
+\newpage
+
 # Theoretical Introduction
 
 ## Baker's Percentage
@@ -25,8 +27,17 @@ In Europe there are several prevailing systems for labeling flour types, however
 
 ## Melting Chocolate
 
-# Breads
+\newpage
 
+# Pasta
+\subsubsection*{Ingredients}
+\subsubsection*{Instructions}
+
+# Noodles
+## Udon
+## Soba
+
+# Breads, Buns and Rolls
 ## Pre-Ferment Bread
 
 \subsubsection*{Ingredients}
@@ -57,6 +68,9 @@ Prepare a proofing basket or line a large bowl with a clean kitchen towel and to
 While the dough is proofing, heat the oven and a dutch oven (you may use a large steel pot with a lid as a replacement) to 250C. Once hot, sprinkle the bottom of the dutch oven with flour and carefully place the dough in it. Do not drop the dough as it will lose the gases built up during proofing resulting in a flatter loaf. Score the top of the bread deeply. Bake covered for 20 minutes, remove the cover and bake for 20 or more minutes to achieve dark brown crust.
 
 ## Sourdough Bread
+## Pide
+## Burger Bun
+## Hero Roll
 
 # Pizza
 ## Pizza Napoletana
@@ -80,6 +94,30 @@ We mix the ingredients in a large bowl, then knead using any technique for about
 After the dough rests, we prepare containers to store it. We may use small containers for each piece of dough or large fermentation boxes (as seen in commercial pizzerias) for multiple. Cover the containers with a thin layer of oil. Divide the dough into $280 \pm 5$g pieces, shape into balls with a smooth surface (extremely important) by, for instance, folding the dough into itself and place them in the containers. If storing multiple ball in one container, leave at least 5cm of space inbetween each pair. Store in the fridge and let ferment for at least 8h. It is possible to store the dough in the fridge for up to a week.
 
 After taking out of the fridge, let rest for around 30 minutes or until it reaches around 16C. In the meantime preheat the oven to the highest available temperature. Carefully take one dough ball out of a container (it is important to not push the gases out of the dough at this stage) onto flour and stretch using any technique while being cautious to not press the gases out of the crust. Bake until the crust turns crispy (for reference, 6-8 minutes in 250C).
+
+# Burgers
+## Beef Burgers
+## Chicken Burgers
+## Vegetarian Burgers
+
+# Sandwiches
+## Chopped Cheese
+## Chicken Sandwich
+
+# Dumplings
+## Pierogi
+## Gyoza
+
+# Sides
+## Spring Rolls
+
+# Main Courses
+## Katsu Chicken
+## Sweet-Sour Chicken
+## Zuǒ Zōngtáng Jī (General Tso's Chicken)
+## Chénpí Jī (Orange Chicken)
+## Yaki Udon
+## Döner
 
 # Cookies
 ## Oatmeal Cookies
@@ -162,3 +200,10 @@ The following recipe is for a 22x22cm baking pan of fudgy brownies.
 - 120g 64% chopped chocolate or chocolate chips
 
 Preheat your oven to 165C and line a 22x22cm baking pan with parchment paper. In a water bath, melt the chocolate and the butter stirring occasionally to combine. Once fully melted, take off the heat source and add sugar and salt. Barely mix. Then, add the eggs, mix roughly. Add the dry ingredients (flour, cocoa powder) and the chopped chocolate or chocolate chips, and mix until few lumps remain. It is perfect if your batter is lightly undermixed. Pour the batter into the pan and bake for 23 minutes. Let cool in the pan on a wire rack for several hours before cutting.
+
+## Crescent Rolls
+
+# Cakes
+## Genoise
+## Shortcake
+## Carrot Cake
