@@ -232,23 +232,27 @@ Once the cream sets and you are ready to serve the dessert, prepare the chocolat
 ## Brownies
 There are two types of brownies - fudgy and cakey. Fudgy brownies are chewy, gooey, moist, while cakey brownies resemble a very dense genoise. It is up to your personal preference which type you will make.
 
-The proportions of fats (from butter and chocolate) and flour will vary the fudgyness of the brownies. For fudgy brownies add more fat (butter and chocolate) and for cakey brownies add more flour. The mixing technique, the baking time and the temperature also affect the texture of the brownies. For fudgy brownies, barely mix the ingredients and bake shorter, while for cakey brownies do the exact opposite - ensure the ingredients are thoroughly incorporated, preferably using a mixer, and the brownies are baked for a longer time.
+The proportions of fats (from butter and chocolate) and flour will vary the fudgyness of the brownies. For fudgy brownies add more fat (butter and chocolate) and for cakey brownies add more flour. The mixing technique, the baking time and the temperature also affect the texture of the brownies. For fudgy brownies, barely mix the ingredients and bake shorter, while for cakey brownies do the exact opposite - ensure the ingredients are thoroughly incorporated, preferably using a mixer, and the brownies are baked for a longer time. Additionally, for the cakey brownies, add baking powder to improve the height and the fluffiness .
 
-Additionally, using less sugar will prevent the sweetness from overwhelming the bitter taste of the chocolate and the cocoa resulting in a richer flavour variety (the following recipe already reflects that). However, the sugar, when baking, carmelises at the top forming a light crust. Adding too little sugar will result in no crust and extremely bitter brownies.
+Farthermore, using less sugar will prevent the sweetness from overwhelming the bitter taste of the chocolate and the cocoa resulting in a richer flavour variety (the following recipe already reflects that). However, the sugar, when baking, carmelises at the top forming a light crust. Adding too little sugar will result in no crust and extremely bitter brownies.
 
 The following recipe is for a 22x22cm baking pan of fudgy brownies.
 
 \subsection*{Ingredients}
-- 120g 64% chocolate
+- 180g 64% chocolate
 - 115g butter
-- 140g white sugar
+- 110g white sugar
 - 3 eggs
 - 60g flour
 - 50g cocoa powder
 - 7g salt
 - 120g 64% chopped chocolate or chocolate chips
 
-Preheat your oven to 165C and line a 22x22cm baking pan with parchment paper. In a water bath, melt the chocolate and the butter stirring occasionally to combine. Once fully melted, take off the heat source and add sugar and salt. Barely mix. Then, add the eggs, mix roughly. Add the dry ingredients (flour, cocoa powder) and the chopped chocolate or chocolate chips, and mix until few lumps remain. It is perfect if your batter is lightly undermixed. Pour the batter into the pan and bake for 23 minutes. Let cool in the pan on a wire rack for several hours before cutting.
+Preheat your oven to 165C and line a 22x22cm baking pan with parchment paper.
+
+In a water bath, melt the chocolate and the butter stirring occasionally to combine. Once fully melted, take off the heat source and add sugar and salt. Barely mix. Then, add the eggs and mix until incorporated. Add the dry ingredients (flour, cocoa powder) and the chopped chocolate or chocolate chips, and mix until no flour pockets remain. It is perfect if your batter is lightly undermixed.
+
+Pour the batter into the pan and bake for 23-27 minutes. Let cool in the pan on a wire rack for several hours before cutting. Cut into 9 pieces.
 
 ## Crescent Rolls
 
