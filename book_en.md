@@ -92,7 +92,7 @@ While the dough is proofing, heat the oven and a dutch oven (you may use a large
 ## Sourdough Bread
 ## Pide
 ## Burger Bun
-## Hero Roll
+## Hoagie Roll
 
 # Pizza
 ## Pizza Napoletana
@@ -197,15 +197,15 @@ For about 18 cookies:
 - 2 eggs
 - 4g salt
 - 4g cinnamon
-- 15g brown sugar/honey or use caramel
 - dried fruits (for example cranberry)
 - 100g 64% chocolate or chocolate chips
+- brown sugar, honey or caramel (optional)
 - water (optional)
 
 \subsubsection*{Instructions}
 Preheat your oven to about 165C.
 
-Take a steel pot and set it over medium heat. Add butter and brown until butter solids appear and the liquid turns golden brown. It is important to transfer the liquid butter to a bowl or another container, or cool the pot in a water bath until it is around room temperature because otherwise the butter might burn from the heat stored by the pot.
+Take a steel pot and set it over medium heat. Add butter and brown until butter solids appear and the liquid turns golden brown. It is important to transfer the liquid butter to a bowl or another container, or cool the pot in a water bath until it is around room temperature because otherwise the butter might burn from the heat stored in the pot.
 
 Blend half the oatmeal coarsely, transfer to a container, then blend the dried fruits until they turn into tiny pieces. We do not want to turn them into a paste, though. Cut the chocolate int rough 5mm squares.
 
@@ -248,11 +248,25 @@ In a small bowl mix 3 spoons of cream with the gelatin. To a large pot, add the 
 Once the cream sets and you are ready to serve the dessert, prepare the chocolate and the fuit sauce. Melt the chocolate and the butter in a water bath. Blend the fruits. You may optionally cook the fruits before blending. Prepare the garnish. Remove the cover from a glass and wipe any moisture from the inside. Layer chocolate thinly as it has quite an intense flavour. Pour the sauce gently on top and garnish with fruit and mint.
 
 ## Brownies
-There are two types of brownies - fudgy and cakey. Fudgy brownies are chewy, gooey, moist, while cakey brownies resemble a very dense genoise. It is up to your personal preference which type you will make.
+There are two types of brownies - fudgy and cakey. Fudgy brownies are chewy,
+gooey, moist, while cakey brownies resemble a very dense genoise. It is up to
+your personal preference which type you will make.
 
-The proportions of fats (from butter and chocolate) and flour will vary the fudgyness of the brownies. For fudgy brownies add more fat (butter and chocolate) and for cakey brownies add more flour. The mixing technique, the baking time and the temperature also affect the texture of the brownies. For fudgy brownies, barely mix the ingredients and bake shorter, while for cakey brownies do the exact opposite - ensure the ingredients are thoroughly incorporated, preferably using a mixer, and the brownies are baked for a longer time. Additionally, for the cakey brownies, add baking powder to improve the height and the fluffiness .
+The proportions of fats (from butter and chocolate) and flour will vary the
+fudgyness of the brownies. For fudgy brownies add more fat (butter and
+chocolate) and for cakey brownies add more flour. The mixing technique, the
+baking time and the temperature also affect the texture of the brownies. For
+fudgy brownies, barely mix the ingredients and bake shorter, while for cakey
+brownies do the exact opposite - ensure the ingredients are thoroughly
+incorporated, preferably using a mixer, and the brownies are baked for a longer
+time. Additionally, for the cakey brownies, add baking powder to improve the
+height and the fluffiness .
 
-Farthermore, using less sugar will prevent the sweetness from overwhelming the bitter taste of the chocolate and the cocoa resulting in a richer flavour variety (the following recipe already reflects that). However, the sugar, when baking, carmelises at the top forming a light crust. Adding too little sugar will result in no crust and extremely bitter brownies.
+Farthermore, using less sugar will prevent the sweetness from overwhelming the
+bitter taste of the chocolate and the cocoa resulting in a richer flavour
+variety (the following recipe already reflects that). However, the sugar, when
+baking, carmelises at the top forming a light crust. Adding too little sugar
+will result in no crust and extremely bitter brownies.
 
 The following recipe is for a 22x22cm baking pan of fudgy brownies.
 
@@ -268,13 +282,65 @@ The following recipe is for a 22x22cm baking pan of fudgy brownies.
 
 Preheat your oven to 165C and line a 22x22cm baking pan with parchment paper.
 
-In a water bath, melt the chocolate and the butter stirring occasionally to combine. Once fully melted, take off the heat source and add sugar and salt. Barely mix. Then, add the eggs and mix until incorporated. Add the dry ingredients (flour, cocoa powder) and the chopped chocolate or chocolate chips, and mix until no flour pockets remain. It is perfect if your batter is lightly undermixed.
+In a water bath, melt the chocolate and the butter stirring occasionally to
+combine. Once fully melted, take off the heat source, add sugar and salt, and
+mix. Beat the living hell out of the eggs with a mixer (at least 10 minutes).
+Pour in the chocolate mixing continously on low speed. Add the dry ingredients
+(flour, cocoa powder) and the chopped chocolate or chocolate chips. Fold gently
+until no flour pockets remain (we do not want to deflate the batter).
 
-Pour the batter into the pan and bake for 23-27 minutes. Let cool in the pan on a wire rack for several hours before cutting. Cut into 9 pieces.
+Pour the batter into the pan and bake for 18-20 minutes. Let cool in the pan on
+a wire rack for several hours before cutting. Cut into 9 pieces.
 
 ## Crescent Rolls
+
+# Pies
+## Apple Pie
+
+- 400g flour
+- 150g butter
+- 2 egg yolks (about 30g)
+- 150g cream 30% or 36%
+- 8g salt
+- 75g sugar
 
 # Cakes
 ## Genoise
 ## Shortcake
+
 ## Carrot Cake
+This recipe is scaled to a 15cm (diameter) cake tin.
+
+\subsection*{Ingredients}
+
+- 120g eggs (room temperature)
+- 70g sugar (prefer brown for better moisture retention, but white is also
+  perfect)
+- 77g oil (odourless, e.g. canola)
+- 110g flour
+- 55g almond powder (substitute with flour if not available)
+- 3g cinnamon
+- 6.5g baking powder
+- 2g salt
+- 170g carrots (mass after peeling)
+- 50g walnuts
+- 50g raisins
+
+\subsection*{Instructions}
+
+0. Line the bottom and the sides of your tin with parchment paper.
+1. Preheat oven to 165C.
+2. Submerge raisins in rum/water/liquid of your choice and leave to soak.
+3. Grate carrots on the fine side of your grater.
+4. Chop walnuts.
+5. Whisk eggs and sugar.
+6. Add oil and whisk until well combined.
+7. Add dry ingredients (flour, almond powder, cinnamon, baking powder, salt) and
+   mix well with a spatula.
+8. Add carrots, walnuts, drained raisins and mix.
+9. Pour into the tin. Drop the tin from about 10cm to remove large air bubbles
+   in the batter.
+10. Bake 40-45 mins.
+11. Invert onto a cooling rack, remove the tin and the parchment paper. cool for
+    10 mins, then flip up-side-down and continue cooling until edible or room
+    temperature.
