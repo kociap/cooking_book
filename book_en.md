@@ -92,6 +92,35 @@ While the dough is proofing, heat the oven and a dutch oven (you may use a large
 ## Sourdough Bread
 ## Pide
 ## Burger Bun
+This recipe makes 6 buns (150g).
+
+\subsubsection*{Ingredients}
+- 125g milk (lukewarm or room temperature)
+- 125g water (lukewarm or room temperature)
+- 20g yeast
+- 15g sugar
+- 1 whole egg + 1 egg yolk
+- 10g salt
+- 525g flour
+- 65g butter (softened)
+- sesame (optional)
+- 1 whole egg for egg wash
+
+\subsubsection*{instructions}
+0. Mix together milk, water, yeast, sugar, salt and eggs.
+1. Add flour, mix, then knead for up to 5 minutes.
+2. Knead the butter into the dough and continue kneading until the dough does
+   not stick anymore.
+3. Form into a ball and leave for at least an hour to rise.
+4. Divide into 6 even portions and shape into balls. Place on sheets of
+   parchment paper, then lightly coat the tops of the buns with oil and gently
+   flatten with the bottom of a glass.
+5. Cover the buns with cloth and leave to proof for 30 minutes to an hour.
+6. Preheat the oven to 190C.
+7. Mix together an egg and a little water (about a tablespoon), then brush the
+   tops of the buns with the egg wash. Coat generously with sesame.
+8. Bake for 17-20 minutes.
+
 ## Hoagie Roll
 
 # Pizza
@@ -344,3 +373,21 @@ This recipe is scaled to a 15cm (diameter) cake tin.
 11. Invert onto a cooling rack, remove the tin and the parchment paper. cool for
     10 mins, then flip up-side-down and continue cooling until edible or room
     temperature.
+12. Slice into 3 layers of 1.5cm to 2cm height. Layer with cream cheese frosting.
+
+## Cream Cheese Frosting
+
+\subsubsection*{Ingredients}
+- 320g cream cheese (room temperature)
+- 120g powder sugar
+- 160g butter (room temperature)
+- 3.5g lemon zest
+- 30g heavy cream
+
+\subsubsection*{Instructions}
+0. Mix the cream cheese with the powder sugar.
+1. In another bowl mix the the butter to soften it. This helps ensure there will
+   be no clumps of butter in the frosting.
+2. Add the butter to the cream cheese and mix until homogenous.
+3. Add lemon zest and heavy cream. Mix until homogenous.
+4. Chill in the fridge for about 20 minutes before using.
