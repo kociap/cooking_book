@@ -7,6 +7,8 @@ linestretch: 1.15
 fontsize: 11pt
 ---
 
+\newcommand{\header}[1]{\subsubsection*{#1}}
+
 \tableofcontents
 
 \newpage
@@ -214,6 +216,39 @@ Serve with rice and garnish with the spring onion.
 ## Chénpí Jī (Orange Chicken)
 ## Yaki Udon
 ## Döner
+
+## Hotpot (Garnek)
+A lot of the flavour of the hotpot comes from the fat rendered from the meat,
+hence it is best to pick sausage and pork belly that are high in fat content.
+
+\header{Ingredients}
+- 250g sausage
+- 500g pork belly
+- 1 carrot
+- 1 red bell pepper
+- 1/2 small white cabbage
+- 400g potatoes
+- 5 garlic
+- ground cumin
+- ground pepper
+- 2 bay leaves
+- coriander seeds
+- paprika
+- basil
+- potato starch
+
+\header{Instructions}
+Use a stainless steel pot.
+
+0. Cut sausage (preferably rangiri) and pork belly (cubes) into large chunks,
+   then fry in the pot until lightly browned.
+1. Peel vegetables, then cut carrot (rangiri), pepper, cabbage and potatoes into
+   large chunks. Add to the pot, then fill the pot with water until it covers
+   the contents.
+2. Peel and mince garlic. Add all aromatics, herbs, spices. Leave to cook at
+   least until the potatoes are tender.
+3. Mix potato starch with water to make a slurry, then add slowly while mixing
+   to the pot to thicken lightly.
 
 # Cookies
 ## Oatmeal Cookies
