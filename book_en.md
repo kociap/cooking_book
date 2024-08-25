@@ -278,6 +278,35 @@ Take a large bowl and mix eggs and sugar. Add butter and mix until combined, the
 Line a baking tray with parchment paper. Scoop a small portion of the dough, form into a rough ball, then lay on the tray and press down until about 1cm thick. Repeat to make 9 cookies. Bake for 17 minutes or until the bottom of the cookies is brown.
 
 # Desserts
+
+## Tiramisu
+
+\subsubsection*{Ingredients}
+- 4 eggs
+- 50g sugar
+- 500g mascarpone
+- ~14 savoiardi
+- 300ml espresso (lukewarm or cold)
+- cocoa powder
+
+\subsubsection*{Instructions}
+If you follow the order of whipping, you won't have to clean your mixer.
+Otherwise, make sure to not stain the whites with any yolks or mascarpone,
+and not introduce mascarpone to your yolks.
+0. Separate whites from yolks.
+1. Whip the whites until stiff.
+2. Add sugar to yolks and whip until pale. They will significantly increase in
+   volume, so be mindful of the container you use.
+3. Whip the mascarpone until soft.
+4. Fold the yolks into the whites, then fold mascarpone into the mix until
+   smooth. Do not overmix as the eggs will lose the air.
+5. Lay the first layer of savoiardi dipping them in the coffee (do not soak
+   them!) just before placing them.
+6. Place a thick layer of the mascarpone.
+7. Repeat with the next layer.
+8. Refrigerate for several hours, preferably overnight.
+9. Dust with cocoa powder before cutting.
+
 ## Panna Cotta
 Panna Cotta may be served and garnished in a variety of ways, e.g. layered in a glass or inverted onto a plate with a side of fruits. In this recipe we will be making a 3-layer Panna Cotta in whiskey glasses, however, the recipe for the cream itself may be used to make any variety of Panna Cotta.
 \subsubsection*{Ingredients}
