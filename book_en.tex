@@ -12,7 +12,9 @@
 
 \usepackage{hyperref}
 \usepackage{siunitx}
+\usepackage{amsmath}
 
+\newcommand{\fullref}[1]{\hyperref[{#1}]{\nameref*{#1} (\ref*{#1})}}
 \newcommand{\header}[1]{\subsubsection*{#1}}
 \newcommand{\ingredientsection}[1]{\medskip\noindent\underline{#1}\medskip}
 \setcounter{tocdepth}{1}
@@ -21,8 +23,8 @@
 \newcommand\saveenum{\setcounter{tmpenumeration}{\theenumi}}
 \newcommand\contenum{\setcounter{enumi}{\thetmpenumeration}}
 
-\title{\textsc{{An Engineer's Book About Cooking and Baking}}}
-\author{\textsc{Piotr Kocia}}
+\title{\textsc{{Engineer's Book \\ About Cooking and Baking}}}
+\author{\textsc{Piotr Kocia, BSE}}
 \date{\textsc{\today}}
 
 \begin{document}
