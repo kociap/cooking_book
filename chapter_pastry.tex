@@ -88,9 +88,92 @@ Use a whisk, preferably a narrow one.
 \end{enumerate}
 
 \section{Tarte au Citron (Lemon Tart)}
+This recipe makes 4 tarts, thus 4 $\diameter$10cm \fullref{tart-shell} are required.
 
-\header{Ingredients (Lemon Custard)}
+\header{Ingredients (Lemon Curd)}
+\begin{itemize}
+  \item 125g lemon juice
+  \item zest of the lemons (optional)
+  \item 65g egg yolks
+  \item 110g whole eggs
+  \item 95g sugar
+  \item 2.5g gelatin
+  \item 80g butter (optional)
+\end{itemize}
+Lemon zest has a rich lemon flavour and since we already are using the lemons,
+we might also zest them before squeezing the juice. While optional, the zest
+improves the flavour and is recommended. Butter improves the mouthfeel - makes
+the whole curd smoother.
+
+\header{Instructions}
+Vigorous stirring, especially using metal utensils, in a metal pot will cause a
+metallic aftertaste in the curd due to the acid from the lemon reacting with
+the metal. Prefer using a silicone spatula instead of a metal whisk.
+\begin{enumerate}
+  \item Zest the lemons.
+  \item Squeeze the lemons.
+  \item Mix the gelatin with 20g of the lemon juice.
+  \item Combine the remaining lemon juice, zest, yolks, eggs and sugar in a pot,
+    then set it over low heat. Stir gently and constantly to prevent curdling.
+  \item Once the curd thickens considerably, remove from the heat and continue
+    stirring for up to a minute.
+  \item While still hot (around \SI{50}{\celsius}), add the gelatin and mix to
+    dissolve.
+  \item Add the butter and blend with an immersion blender until smooth.
+  \item Fill the shells with the curd and move to a fridge to chill and set for
+    about an hour.
+\end{enumerate}
+
 \header{Ingredients (Lemon Meringue)}
+\begin{itemize}
+  \item 30g water \tikzmark{sugar-syrup-top}
+  \item 70g sugar \tikzmark{sugar-syrup-bot}
+  \item 25g sugar \tikzmark{french-meringue-top}
+  \item 65g egg whites \tikzmark{french-meringue-bot}
+  \item 15g lemon juice
+  \item 1.5g gelatin
+  \item lemon zest
+\end{itemize}
+
+\begin{tikzpicture}[overlay, remember picture]
+  \node (sugar-syrup-top) at (pic cs:sugar-syrup-top) {\vphantom{h}};
+  \node (sugar-syrup-bot) at (pic cs:sugar-syrup-bot) {\vphantom{g}};
+  \draw [decoration = {brace, amplitude = 0.6em}, decorate, very thick, black]
+    let
+      \p1 = (sugar-syrup-top.north),
+      \p2 = (sugar-syrup-bot.south)
+    in
+      ({max(\x1, \x2)}, \y1) -- ({max(\x1, \x2)}, \y2)
+      node [midway, right, xshift = 0.7em] {Sugar Syrup};
+
+  \node (french-meringue-top) at (pic cs:french-meringue-top) {\vphantom{h}};
+  \node (french-meringue-bot) at (pic cs:french-meringue-bot) {\vphantom{g}};
+  \draw [decoration = {brace, amplitude = 0.6em}, decorate, very thick, black]
+    let
+      \p1 = (french-meringue-top.north),
+      \p2 = (french-meringue-bot.south)
+    in
+      ({max(\x1, \x2)}, \y1) -- ({max(\x1, \x2)}, \y2)
+      node [midway, right, xshift = 0.7em] {French Meringue};
+\end{tikzpicture}
+
+\header{Instructions}
+\begin{enumerate}
+  \item Dissolve the gelatin in the lemon juice by heating it up to
+    \SI{40}{\celsius}.
+  \item Make the sugar syrup by comining the water and the sugar in a pot, then
+    setting it on low heat until it reaches around \SI{120}{\celsius}.
+  \item In the meantime, make the french meringue by beating the egg whites
+    with the sugar.
+  \item Pour the hot sugar syrup into the meringue in small batches while
+    mixing constantly.
+  \item Immediately after add the lemon juice with the gelatine and mix to
+    incorporate.
+  \item Once cooled, transfer to a pastry bag with a tip of your choice.
+  \item Pipe on top of the curd.
+  \item Sprinkle with the lemon zest.
+  \item Move to a fridge to chill and set for about an hour.
+\end{enumerate}
 
 \section{Crescent Rolls}
 \header{Ingredients}
