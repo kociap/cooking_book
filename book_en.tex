@@ -1,15 +1,11 @@
-\documentclass[11pt]{book}
 % ---
 % title: A Short Book About Cooking and Baking
 % author: Piotr Kocia
-% geometry: "left=3cm,right=3cm,top=3cm,bottom=3cm"
-% mainfont: Helvetica
-% linestretch: 1.15
-% fontsize: 11pt
 % ---
 
-% \usepackage[left=4cm, right=4cm]{geometry}
+\documentclass{cookbook}
 
+\usepackage{lmodern}
 \usepackage{hyperref}
 \usepackage{siunitx}
 \usepackage{amsmath}
@@ -17,6 +13,8 @@
 \usepackage{mathabx}
 \usepackage{tikz}
 \usetikzlibrary{decorations.pathreplacing,calc,tikzmark}
+\usepackage{setspace}
+\setstretch{1.1}
 
 \newcommand{\fullref}[1]{\hyperref[{#1}]{\nameref*{#1} (\ref*{#1})}}
 \newcommand{\header}[1]{\vspace*{-\parskip}\subsubsection*{#1}}
@@ -27,8 +25,6 @@
 \newcommand\contenum{\setcounter{enumi}{\thetmpenumeration}}
 
 \setcounter{tocdepth}{1}
-\setlength{\parindent}{0cm}
-\setlength{\parskip}{11pt plus 2pt minus 2pt}
 
 \title{\textsc{{Engineer's Book \\ About Cooking and Baking}}}
 \author{\textsc{Piotr Kocia, BSE}}
